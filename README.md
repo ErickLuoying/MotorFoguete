@@ -4,9 +4,7 @@ Arquivos referentes ao trabalho: Simulação de Escoamento Turbulento em um Moto
 
 Autor: Érick Marcelino Miranda
 
-Universidade de Brasília (UnB)
-
-Faculdade do Gama (FGA)
+Universidade de Brasília (UnB)/Faculdade do Gama (FGA)
 
 ## Geometria
 
