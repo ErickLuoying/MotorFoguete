@@ -1,6 +1,11 @@
 # MotorFoguete
 Arquivos referentes ao trabalho: Simulação de Escoamento Turbulento em um Motor de Foguete com o Modelo de Grandes Escalas (LES)
 
+
+Autor: Érick Marcelino Miranda
+Universidade de Brasília (UnB)
+Faculdade do Gama (FGA)
+
 ## Geometria
 
 
