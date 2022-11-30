@@ -6,6 +6,8 @@ Autor: Érick Marcelino Miranda
 
 Universidade de Brasília (UnB)/Faculdade do Gama (FGA)
 
+Link para a publicação: https://bdm.unb.br/handle/10483/31173
+
 ## Geometria
 
 
